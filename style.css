@@ -10,6 +10,8 @@ body{
     color: #fff;
 }
 
+/* ------------Header Starting------------ */
+
 .header{
     width: 100%;
     height: 100vh;
@@ -76,6 +78,9 @@ nav button{
 .signup-btn{
     display: flex;
 }
+
+/* -------------Header Content Starting----------------- */
+
 .header-content{
     position: absolute;
     top: 50%;
@@ -147,7 +152,11 @@ nav button{
     font-size: 14px;
 }
 
-/*----------features----------*/
+/* --------------Header Content Ending----------------- */
+
+/* -------------Header Ending------------- */
+
+/*----------features Starting----------*/
 
 .gap{
     width: 100%;
@@ -192,7 +201,9 @@ nav button{
     word-spacing: .25rem;
 }
 
-/*--------------faq---------------*/
+/* --------------Features Ending--------------- */
+
+/*--------------faq Starting---------------*/
 
 .faq{
     padding: 10px 12%;
@@ -256,6 +267,9 @@ input[type="radio"]{
     margin-left: 5rem;
     margin-bottom: 4rem;
 }
+
+/* -------------Footer Starting--------------- */
+
 .footer{
     padding: 50px 15% 10px;
     color: rgba(255, 255, 255, 0.7);
@@ -318,3 +332,5 @@ input[type="radio"]{
   padding-bottom: 4rem ;
   font-size: 14px;
 }
+
+/* ------------Footer Ending------------- */
